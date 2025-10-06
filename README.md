@@ -11,22 +11,23 @@
 
 ---
 
-### 🧠 Hakkımda
+### 👨‍💻 Hakkımda
 - 🎯 16 yaşındayım, **Kocaeli**’de yaşıyorum (Zonguldaklıyım)
-- 🤖 **Discord botları** ve web projeleri geliştiriyorum
-- 💡 En büyük projem: **KLYZE Bot**
+- 🤖 **Discord botları** geliştiriyorum — en büyük projem **KLYZE Bot**
+- 💻 Kullandığım diller: **HTML, CSS, JavaScript, Python**
+- 🎨 Tasarım ve animasyonlu arayüzleri seviyorum
 - 🌍 Hedefim: uluslararası yazılım projelerinde yer almak
 
 ---
 
-### 🧩 Kullandığım Diller & Teknolojiler
+### ⚙️ Kullandığım Diller & Teknolojiler
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,discord,vscode,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,github,discord,vscode,git,figma,tailwind" />
 </p>
 
 ---
 
-### ⚙️ GitHub İstatistiklerim
+### 📊 GitHub İstatistiklerim
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omern2&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omern2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
@@ -34,11 +35,11 @@
 
 ---
 
-### 🌈 Bağlantılar
+### 🌐 Sosyal Medya & İletişim
 <p align="center">
-  <a href="https://github.com/omern2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
-  <a href="https://discord.com/users/" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" /></a>
+  <a href="https://github.com/omern2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://discord.gg/sX4XsWZrZp" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_omern2" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -53,3 +54,8 @@
 ### ⚡ Küçük Not
 > “Kod yazmak sadece bir beceri değil, bir **sanattır.** 🎨”
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omern2&label=Ziyaretçi%20Sayısı&color=brightgreen&style=for-the-badge" alt="profile views" />
+</p>

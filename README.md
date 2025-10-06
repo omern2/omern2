@@ -1,73 +1,88 @@
-<!-- ========== BANNER ========== -->
-<div align="center">
-  <!-- İstersen bu GIF'i kendi banner'ıyla değiştir: /assets/banner.gif -->
-  <img src="https://i.imgur.com/mM8p6V8.gif" width="100%" alt="developer banner" />
-</div>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&center=true&vCenter=true&width=700&lines=let+isim+=+'Ömer+Yıldırım';console.log(%22Selam+👋%22);" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=let+isim+=+'Ömer+Yıldırım';console.log(%22👋+Selam!%22);" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <strong>16 yaşında | Kocaeli (Zonguldaklı) | Discord bot geliştiricisi</strong><br/>
-  <em>En büyük projem: <strong>KLYZE Bot</strong> — Algoritma ve backend & frontend projelerinde aktif.</em>
+  <strong>16 yaşında • Kocaeli (Zonguldaklı)</strong><br/>
+  <em>Discord Bot Geliştiricisi • Web & Backend Developer</em><br/>
+  <em>"Her gün bir satır daha iyi kod!" 💻</em>
 </p>
 
 ---
 
 ## 👨‍💻 Hakkımda
-- 🔭 Discord bot geliştirme (KLYZE Bot) ve web projeleri yapıyorum.  
-- 🧩 Uzmanlık: **JavaScript (Node.js), Python, HTML, CSS**  
-- 🛠 Ek: MongoDB, React, Tailwind, Git, VSCode, Figma, After Effects (AE), Photoshop (PS)  
-- 🎯 Hedef: Profesyonel olarak yazılım geliştirme ve büyük projelerde yer almak.
+- 🔥 En büyük projem: **KLYZE Bot**  
+- ⚡ Aktif olarak **Discord.js**, **Python** ve **MongoDB** ile projeler geliştiriyorum.  
+- 🧠 **HTML, CSS, JavaScript, Python** dillerinde profesyonel düzeydeyim.  
+- 🎨 **Photoshop** ve **After Effects** ile görsel-animasyon desteği veriyorum.  
+- 🧩 Hedefim: Profesyonel yazılım ekibinde tam zamanlı geliştirici olmak.  
 
 ---
 
-## ⚙️ Kullandığım Teknolojiler
+## 🧰 Kullandığım Teknolojiler & Araçlar
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,react,mongodb,tailwind,git,github,figma,vscode" alt="technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,nodejs,mongodb,react,tailwind,vscode,git,github" />
 </p>
 
-<!-- bazı özel programlar için (AE/PS) shield kullanıyoruz -->
 <p align="center">
-  <img alt="AE" src="https://img.shields.io/badge/After%20Effects-%23FF00FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
-  <img alt="PS" src="https://img.shields.io/badge/Photoshop-%231877F2?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub İstatistikler
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omern2&show_icons=true&theme=tokyonight&hide_border=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omern2&layout=compact&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-00ED64?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-## 🔗 Sosyal & İletişim
+## 📈 GitHub İstatistikleri
 <p align="center">
-  <a href="https://github.com/omern2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/omern2" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_omern2" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://discord.gg/sX4XsWZrZp" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=omern2&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omern2&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omern2&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 ---
 
-## ▶️ Mini Projeler & Demo
-- **KLYZE Bot** — Discord bot (moderasyon, müzik, özelleştirilmiş komutlar).  
-- **LeetCode Solutions Repo** — Çözümlerim otomatik olarak synclenir.  
-- **Snake (Oynanabilir)** — Repoda `/snake/index.html` altında basit HTML/JS oyunu (aşağıda kaynak kodu var).
+## 🌐 Bağlantılarım
+<p align="center">
+  <a href="https://github.com/omern2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/omern2" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_omern2" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/sX4XsWZrZp" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🐍 Oyna: Snake (Local / GitHub Pages)
-Oyun dosyalarını repoya koyup GitHub Pages ile yayınlayabilirsin:  
-`https://omern2.github.io/<repo-name>/snake/`  
-Oyunu denemek için `snake/index.html` dosyasını açman yeterli.
+## 🕹️ Mini Projeler
+- 🎮 **Snake Oyunu** — HTML + JS ile basit ama şık bir oyun  
+- 🤖 **KLYZE Bot** — Gelişmiş Discord bot (moderasyon, log, müzik, koruma sistemleri)  
+- 🧮 **LeetCode Çözümleri** — Gerçek algoritma çözümleri (JS ve Python)  
+
+> Repolarda örnek kodları ve ekran görüntülerini bulabilirsiniz.
 
 ---
 
-## ✨ Not
-> Eğer portföy veya CV istiyorsan, sana özel bir PDF / tasarım hazırlayıp paylaşırım.  
+## 💬 İletişim
+> 📫 Bana ulaş: **discord.gg/sX4XsWZrZp** veya **Instagram: [_omern2](https://www.instagram.com/_omern2)**  
+> 💼 Açığım: Freelance işler, ekip işbirlikleri ve staj fırsatları  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=omern2&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:3b82f6&height=120&section=footer"/>
+</p>

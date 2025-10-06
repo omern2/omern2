@@ -57,12 +57,6 @@
 
 ---
 
-## 🐍 GitHub Snake (Yılan Aktivite Animasyonu)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/omern2/omern2/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" />
-</p>
-
----
 
 ## 🏆 Başarılar & Rozetler
 <p align="center">

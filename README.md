@@ -1,38 +1,40 @@
-<h1 align="center">👋 Merhaba, Ben Ömer Yıldırım</h1>
-<h3 align="center">🎯 16 yaşındayım, Kocaeli'de yaşıyorum. Zonguldaklıyım ve büyük projeler geliştiriyorum!</h3>
+<!-- 🌌 ANİMASYONLU ARKA PLAN -->
+<div align="center">
+  <img src="https://i.imgur.com/mM8p6V8.gif" width="100%" alt="banner" />
+</div>
 
 ---
 
-### 🚀 Hakkımda
-- 🤖 Discord bot geliştiricisiyim — en büyük projem **KLYZE Bot**
-- 💻 Kullandığım diller: **HTML, CSS, JavaScript, Python**
-- 🧠 Yeni teknolojiler öğrenmeyi ve üretmeyi seviyorum
-- 🌍 Hedefim: dünya çapında kullanılan yazılımlar geliştirmek
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=600&lines=let+isim+=+'Ömer+Yıldırım';console.log('Selam+👋');" alt="Typing Animation" />
+</h1>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 🧠 Hakkımda
+- 🎯 16 yaşındayım, **Kocaeli**’de yaşıyorum (Zonguldaklıyım)
+- 🤖 **Discord botları** ve web projeleri geliştiriyorum
+- 💡 En büyük projem: **KLYZE Bot**
+- 🌍 Hedefim: uluslararası yazılım projelerinde yer almak
+
+---
+
+### 🧩 Kullandığım Diller & Teknolojiler
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omern2&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,github,discord,vscode,react,nodejs" />
 </p>
 
 ---
 
-### 🔥 En Çok Kullandığım Diller
+### ⚙️ GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omern2&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omern2&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omern2&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🌀 Animasyonlu Yazan Yazı
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Merhaba!+Ben+Ömer+Yıldırım;Discord+bot+geliştiricisiyim;Kod+yazmak+bir+tutkudur!;HTML,+CSS,+JS+ve+Python+ile+projeler+yapıyorum" alt="Typing SVG" />
-</p>
-
----
-
-### 💬 Sosyal Bağlantılarım
+### 🌈 Bağlantılar
 <p align="center">
   <a href="https://github.com/omern2" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://leetcode.com/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" /></a>
@@ -41,5 +43,13 @@
 
 ---
 
-### ⚡ Küçük Bilgi
-> “Kod yazmak sadece bir iş değil, hayal gücünü gerçeğe dönüştürme sanatıdır.” 🎨
+### 🐍 Animasyonlu Katkı (Snake)
+<p align="center">
+  <img src="https://github.com/omern2/omern2/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### ⚡ Küçük Not
+> “Kod yazmak sadece bir beceri değil, bir **sanattır.** 🎨”
+
